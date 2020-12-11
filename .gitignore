@@ -1,6 +1,5 @@
 # Jest coverage
 /coverage/
-/dist/
 
 .DS_Store
 # all node_modules folders
